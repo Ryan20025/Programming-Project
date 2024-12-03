@@ -1,10 +1,10 @@
-//Programming Project 
-//Golf Score Cardll
-//I hate github
-// This is working
-// Hey
-// You up x
-// Cool
-//salutations fyne shyt
-//Yes
-//dfga
+#include <iostream>
+#include <string>
+
+int main()
+{
+  std::string name;
+  std::cout << "What is your name? ";
+  std::cin >> name;
+  std::cout << "Hello, " << name << "!\n";
+}
