@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1733745765 source:c:\users\doole\onedrive\documents\c++\programming_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+
