@@ -2,15 +2,14 @@
 //Golf Score Card
 #include <iostream>
 #include <string>
-#include <fstream>
 
-using namespace std;
+int main()
+{
+  std::string name;
+  std::cout << "What is your name? ";
+  std::cin >> name;
+  std::cout << "Hello, " << name << "!\n";
 
-int main() {
 
-    cout<<"hello world" << endl;
-
-    //c
-    return 0;
-
+  //test
 }
